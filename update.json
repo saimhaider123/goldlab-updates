@@ -1,7 +1,7 @@
 {
-    "latest_version":  "1.0.2",
-    "download_url":  "https://github.com/saimhaider123/goldlab-updates/releases/download/v1.0.2/GoldLabPro-Setup-1.0.2.exe",
-    "notes":  "New Cashlify app icon, close button, shop logo, 58mm receipts",
+    "latest_version":  "1.0.3",
+    "download_url":  "https://github.com/saimhaider123/goldlab-updates/releases/download/v1.0.3/GoldLabPro-Setup-1.0.3.exe",
+    "notes":  "Silver support, date \u0026 time, rate in testing, pending gold, totals, delete options, PIN fix",
     "mandatory":  false,
     "message":  "",
     "revoked":  [
