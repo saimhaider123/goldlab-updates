@@ -1,7 +1,7 @@
 {
-    "latest_version":  "1.0.5",
-    "download_url":  "https://github.com/saimhaider123/goldlab-updates/releases/download/v1.0.5/GoldLabPro-Setup-1.0.5.exe",
-    "notes":  "Amount and weight in khata, Anna-Ratti-Cent purity, pay or receive on behalf, income and expense report, WhatsApp messages, separate gold and silver cards on dashboard",
+    "latest_version":  "1.0.6",
+    "download_url":  "https://github.com/saimhaider123/goldlab-updates/releases/download/v1.0.6/GoldLabPro-Setup-1.0.6.exe",
+    "notes":  "Receipt printer fix (80mm/58mm), printer setup in settings, statements and reports on receipt printer, WhatsApp messages in Roman Urdu",
     "mandatory":  false,
     "message":  "",
     "revoked":  [
