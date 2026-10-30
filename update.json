@@ -1,7 +1,7 @@
 {
-    "latest_version":  "1.0.6",
-    "download_url":  "https://github.com/saimhaider123/goldlab-updates/releases/download/v1.0.6/GoldLabPro-Setup-1.0.6.exe",
-    "notes":  "Receipt printer fix (80mm/58mm), printer setup in settings, statements and reports on receipt printer, WhatsApp messages in Roman Urdu",
+    "latest_version":  "1.0.7",
+    "download_url":  "https://github.com/saimhaider123/goldlab-updates/releases/download/v1.0.7/GoldLabPro-Setup-1.0.7.exe",
+    "notes":  "Clear sales and purchase lists with filters, today\u0027s sales on dashboard, sales list in reports, reset sales or buy/sell option",
     "mandatory":  false,
     "message":  "",
     "revoked":  [
