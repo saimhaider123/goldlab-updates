@@ -1,11 +1,11 @@
 {
     "latest_version":  "1.1.1",
     "download_url":  "https://github.com/saimhaider123/goldlab-updates/releases/download/v1.1.1/GoldLabPro-Setup-1.1.1.exe",
-    "apk_url":  "https://github.com/saimhaider123/goldlab-updates/releases/download/v1.1.0/GoldLabPro-1.1.0.apk",
     "notes":  "Khata view fixed on tablet, layout fixes",
     "mandatory":  false,
     "message":  "",
     "revoked":  [
 
-                ]
+                ],
+    "apk_url":  "https://github.com/saimhaider123/goldlab-updates/releases/download/v1.1.1/GoldLabPro-1.1.1.apk"
 }
